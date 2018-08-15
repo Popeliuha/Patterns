@@ -40,6 +40,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Adapter\Adaptee.cs" />
+    <Compile Include="Adapter\Adapter.cs" />
+    <Compile Include="Adapter\Driver.cs" />
+    <Compile Include="Adapter\Program.cs" />
     <Compile Include="Builder\Converter.cs" />
     <Compile Include="Builder\JSONConverter.cs" />
     <Compile Include="Builder\Program.cs" />
