@@ -64,6 +64,13 @@
     <Compile Include="Facade\Food\Milk.cs" />
     <Compile Include="Facade\Food\Wine.cs" />
     <Compile Include="Facade\Program.cs" />
+    <Compile Include="FactoryMethod\JazzMusic.cs" />
+    <Compile Include="FactoryMethod\Music.cs" />
+    <Compile Include="FactoryMethod\Musician.cs" />
+    <Compile Include="FactoryMethod\JazzMusician.cs" />
+    <Compile Include="FactoryMethod\Program.cs" />
+    <Compile Include="FactoryMethod\RockMusic.cs" />
+    <Compile Include="FactoryMethod\RockMusician.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Singleton\Program.cs" />
     <Compile Include="Singleton\Calculator.cs" />
@@ -74,8 +81,6 @@
     <Compile Include="Strategy\Program.cs" />
     <Compile Include="Strategy\Strategy.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="FactoryMethod\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
