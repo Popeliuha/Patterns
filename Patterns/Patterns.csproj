@@ -40,9 +40,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Builder\Converter.cs" />
+    <Compile Include="Builder\JSONConverter.cs" />
+    <Compile Include="Builder\Program.cs" />
+    <Compile Include="Builder\Result\DeserializeToTxt.cs" />
+    <Compile Include="Builder\Result\SerializeFromTxt.cs" />
+    <Compile Include="Builder\Result\ResultFile.cs" />
+    <Compile Include="Builder\PdfReader.cs" />
+    <Compile Include="Builder\XMLConverter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Singleton\Program.cs" />
     <Compile Include="Singleton\Calculator.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

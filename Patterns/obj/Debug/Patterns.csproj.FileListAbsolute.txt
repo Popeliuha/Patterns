@@ -1,0 +1,6 @@
+D:\Academy\Patterns\Patterns\bin\Debug\Patterns.dll
+D:\Academy\Patterns\Patterns\bin\Debug\Patterns.pdb
+D:\Academy\Patterns\Patterns\obj\Debug\Patterns.csprojAssemblyReference.cache
+D:\Academy\Patterns\Patterns\obj\Debug\Patterns.csproj.CoreCompileInputs.cache
+D:\Academy\Patterns\Patterns\obj\Debug\Patterns.dll
+D:\Academy\Patterns\Patterns\obj\Debug\Patterns.pdb
