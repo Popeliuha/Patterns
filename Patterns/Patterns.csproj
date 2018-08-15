@@ -52,6 +52,12 @@
     <Compile Include="Builder\Result\ResultFile.cs" />
     <Compile Include="Builder\PdfReader.cs" />
     <Compile Include="Builder\XMLConverter.cs" />
+    <Compile Include="Decorator\AfterLog.cs" />
+    <Compile Include="Decorator\BeforeLog.cs" />
+    <Compile Include="Decorator\Decorator.cs" />
+    <Compile Include="Decorator\Log.cs" />
+    <Compile Include="Decorator\Program.cs" />
+    <Compile Include="Decorator\SignUpLog.cs" />
     <Compile Include="Facade\Order.cs" />
     <Compile Include="Facade\Food\Cucumber.cs" />
     <Compile Include="Facade\Food\Fish.cs" />
