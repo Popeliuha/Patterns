@@ -48,6 +48,12 @@
     <Compile Include="Builder\Result\ResultFile.cs" />
     <Compile Include="Builder\PdfReader.cs" />
     <Compile Include="Builder\XMLConverter.cs" />
+    <Compile Include="Facade\Order.cs" />
+    <Compile Include="Facade\Food\Cucumber.cs" />
+    <Compile Include="Facade\Food\Fish.cs" />
+    <Compile Include="Facade\Food\Milk.cs" />
+    <Compile Include="Facade\Food\Wine.cs" />
+    <Compile Include="Facade\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Singleton\Program.cs" />
     <Compile Include="Singleton\Calculator.cs" />
@@ -58,6 +64,8 @@
     <Compile Include="Strategy\Program.cs" />
     <Compile Include="Strategy\Strategy.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="FactoryMethod\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
