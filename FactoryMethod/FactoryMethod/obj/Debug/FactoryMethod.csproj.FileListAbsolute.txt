@@ -1,0 +1,12 @@
+D:\Sharp\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\Sharp\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\Sharp\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\Sharp\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\Sharp\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\Sharp\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
+D:\Sharp\Patterns\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\Sharp\Patterns\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\Sharp\Patterns\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
+D:\Sharp\Patterns\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\Sharp\Patterns\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\Sharp\Patterns\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
