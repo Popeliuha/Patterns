@@ -1,0 +1,14 @@
+D:\Sharp\Builder\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+D:\Sharp\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+D:\Sharp\Builder\Builder\bin\Debug\Builder.exe.config
+D:\Sharp\Builder\Builder\bin\Debug\Builder.exe
+D:\Sharp\Builder\Builder\bin\Debug\Builder.pdb
+D:\Sharp\Builder\Builder\obj\Debug\Builder.exe
+D:\Sharp\Builder\Builder\obj\Debug\Builder.pdb
+D:\Sharp\Patterns\Builder\Builder\bin\Debug\Builder.exe.config
+D:\Sharp\Patterns\Builder\Builder\bin\Debug\Builder.exe
+D:\Sharp\Patterns\Builder\Builder\bin\Debug\Builder.pdb
+D:\Sharp\Patterns\Builder\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+D:\Sharp\Patterns\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+D:\Sharp\Patterns\Builder\Builder\obj\Debug\Builder.exe
+D:\Sharp\Patterns\Builder\Builder\obj\Debug\Builder.pdb

@@ -1,0 +1,7 @@
+D:\Sharp\Patterns\Adapter\Adapter\bin\Debug\Adapter.exe.config
+D:\Sharp\Patterns\Adapter\Adapter\bin\Debug\Adapter.exe
+D:\Sharp\Patterns\Adapter\Adapter\bin\Debug\Adapter.pdb
+D:\Sharp\Patterns\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+D:\Sharp\Patterns\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\Sharp\Patterns\Adapter\Adapter\obj\Debug\Adapter.exe
+D:\Sharp\Patterns\Adapter\Adapter\obj\Debug\Adapter.pdb
