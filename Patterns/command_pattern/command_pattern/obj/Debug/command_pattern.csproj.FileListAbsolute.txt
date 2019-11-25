@@ -1,0 +1,21 @@
+C:\Users\llpoctak\source\repos\command_pattern\command_pattern\bin\Debug\command_pattern.exe.config
+C:\Users\llpoctak\source\repos\command_pattern\command_pattern\bin\Debug\command_pattern.exe
+C:\Users\llpoctak\source\repos\command_pattern\command_pattern\bin\Debug\command_pattern.pdb
+C:\Users\llpoctak\source\repos\command_pattern\command_pattern\obj\Debug\command_pattern.csprojAssemblyReference.cache
+C:\Users\llpoctak\source\repos\command_pattern\command_pattern\obj\Debug\command_pattern.csproj.CoreCompileInputs.cache
+C:\Users\llpoctak\source\repos\command_pattern\command_pattern\obj\Debug\command_pattern.exe
+C:\Users\llpoctak\source\repos\command_pattern\command_pattern\obj\Debug\command_pattern.pdb
+C:\Users\popel\Downloads\patterns c\command_pattern\command_pattern\bin\Debug\command_pattern.exe.config
+C:\Users\popel\Downloads\patterns c\command_pattern\command_pattern\bin\Debug\command_pattern.exe
+C:\Users\popel\Downloads\patterns c\command_pattern\command_pattern\bin\Debug\command_pattern.pdb
+C:\Users\popel\Downloads\patterns c\command_pattern\command_pattern\obj\Debug\command_pattern.csprojAssemblyReference.cache
+C:\Users\popel\Downloads\patterns c\command_pattern\command_pattern\obj\Debug\command_pattern.csproj.CoreCompileInputs.cache
+C:\Users\popel\Downloads\patterns c\command_pattern\command_pattern\obj\Debug\command_pattern.exe
+C:\Users\popel\Downloads\patterns c\command_pattern\command_pattern\obj\Debug\command_pattern.pdb
+D:\Sharp\Patterns\command_pattern\command_pattern\bin\Debug\command_pattern.exe.config
+D:\Sharp\Patterns\command_pattern\command_pattern\bin\Debug\command_pattern.exe
+D:\Sharp\Patterns\command_pattern\command_pattern\bin\Debug\command_pattern.pdb
+D:\Sharp\Patterns\command_pattern\command_pattern\obj\Debug\command_pattern.csprojAssemblyReference.cache
+D:\Sharp\Patterns\command_pattern\command_pattern\obj\Debug\command_pattern.csproj.CoreCompileInputs.cache
+D:\Sharp\Patterns\command_pattern\command_pattern\obj\Debug\command_pattern.exe
+D:\Sharp\Patterns\command_pattern\command_pattern\obj\Debug\command_pattern.pdb
