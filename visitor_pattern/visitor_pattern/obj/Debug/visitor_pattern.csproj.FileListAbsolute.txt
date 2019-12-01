@@ -1,0 +1,14 @@
+C:\Users\llpoctak\source\repos\visitor_pattern\visitor_pattern\bin\Debug\visitor_pattern.exe.config
+C:\Users\llpoctak\source\repos\visitor_pattern\visitor_pattern\bin\Debug\visitor_pattern.exe
+C:\Users\llpoctak\source\repos\visitor_pattern\visitor_pattern\bin\Debug\visitor_pattern.pdb
+C:\Users\llpoctak\source\repos\visitor_pattern\visitor_pattern\obj\Debug\visitor_pattern.csprojAssemblyReference.cache
+C:\Users\llpoctak\source\repos\visitor_pattern\visitor_pattern\obj\Debug\visitor_pattern.csproj.CoreCompileInputs.cache
+C:\Users\llpoctak\source\repos\visitor_pattern\visitor_pattern\obj\Debug\visitor_pattern.exe
+C:\Users\llpoctak\source\repos\visitor_pattern\visitor_pattern\obj\Debug\visitor_pattern.pdb
+C:\Users\popel\Downloads\patterns c\visitor_pattern\visitor_pattern\bin\Debug\visitor_pattern.exe.config
+C:\Users\popel\Downloads\patterns c\visitor_pattern\visitor_pattern\bin\Debug\visitor_pattern.exe
+C:\Users\popel\Downloads\patterns c\visitor_pattern\visitor_pattern\bin\Debug\visitor_pattern.pdb
+C:\Users\popel\Downloads\patterns c\visitor_pattern\visitor_pattern\obj\Debug\visitor_pattern.csprojAssemblyReference.cache
+C:\Users\popel\Downloads\patterns c\visitor_pattern\visitor_pattern\obj\Debug\visitor_pattern.csproj.CoreCompileInputs.cache
+C:\Users\popel\Downloads\patterns c\visitor_pattern\visitor_pattern\obj\Debug\visitor_pattern.exe
+C:\Users\popel\Downloads\patterns c\visitor_pattern\visitor_pattern\obj\Debug\visitor_pattern.pdb
