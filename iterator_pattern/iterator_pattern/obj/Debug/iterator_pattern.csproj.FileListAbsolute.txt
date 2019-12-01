@@ -1,0 +1,21 @@
+C:\Users\llpoctak\source\repos\iterator_pattern\iterator_pattern\bin\Debug\iterator_pattern.exe.config
+C:\Users\llpoctak\source\repos\iterator_pattern\iterator_pattern\bin\Debug\iterator_pattern.exe
+C:\Users\llpoctak\source\repos\iterator_pattern\iterator_pattern\bin\Debug\iterator_pattern.pdb
+C:\Users\llpoctak\source\repos\iterator_pattern\iterator_pattern\obj\Debug\iterator_pattern.csprojAssemblyReference.cache
+C:\Users\llpoctak\source\repos\iterator_pattern\iterator_pattern\obj\Debug\iterator_pattern.csproj.CoreCompileInputs.cache
+C:\Users\llpoctak\source\repos\iterator_pattern\iterator_pattern\obj\Debug\iterator_pattern.exe
+C:\Users\llpoctak\source\repos\iterator_pattern\iterator_pattern\obj\Debug\iterator_pattern.pdb
+C:\Users\popel\Downloads\patterns c\iterator_pattern\iterator_pattern\bin\Debug\iterator_pattern.exe.config
+C:\Users\popel\Downloads\patterns c\iterator_pattern\iterator_pattern\bin\Debug\iterator_pattern.exe
+C:\Users\popel\Downloads\patterns c\iterator_pattern\iterator_pattern\bin\Debug\iterator_pattern.pdb
+C:\Users\popel\Downloads\patterns c\iterator_pattern\iterator_pattern\obj\Debug\iterator_pattern.csprojAssemblyReference.cache
+C:\Users\popel\Downloads\patterns c\iterator_pattern\iterator_pattern\obj\Debug\iterator_pattern.csproj.CoreCompileInputs.cache
+C:\Users\popel\Downloads\patterns c\iterator_pattern\iterator_pattern\obj\Debug\iterator_pattern.exe
+C:\Users\popel\Downloads\patterns c\iterator_pattern\iterator_pattern\obj\Debug\iterator_pattern.pdb
+D:\Sharp\Patterns\iterator_pattern\iterator_pattern\bin\Debug\iterator_pattern.exe.config
+D:\Sharp\Patterns\iterator_pattern\iterator_pattern\bin\Debug\iterator_pattern.exe
+D:\Sharp\Patterns\iterator_pattern\iterator_pattern\bin\Debug\iterator_pattern.pdb
+D:\Sharp\Patterns\iterator_pattern\iterator_pattern\obj\Debug\iterator_pattern.csprojAssemblyReference.cache
+D:\Sharp\Patterns\iterator_pattern\iterator_pattern\obj\Debug\iterator_pattern.csproj.CoreCompileInputs.cache
+D:\Sharp\Patterns\iterator_pattern\iterator_pattern\obj\Debug\iterator_pattern.exe
+D:\Sharp\Patterns\iterator_pattern\iterator_pattern\obj\Debug\iterator_pattern.pdb
