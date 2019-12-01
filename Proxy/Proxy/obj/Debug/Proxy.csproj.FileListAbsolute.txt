@@ -1,0 +1,7 @@
+D:\Sharp\Patterns\Proxy\Proxy\bin\Debug\Proxy.exe.config
+D:\Sharp\Patterns\Proxy\Proxy\bin\Debug\Proxy.exe
+D:\Sharp\Patterns\Proxy\Proxy\bin\Debug\Proxy.pdb
+D:\Sharp\Patterns\Proxy\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+D:\Sharp\Patterns\Proxy\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+D:\Sharp\Patterns\Proxy\Proxy\obj\Debug\Proxy.exe
+D:\Sharp\Patterns\Proxy\Proxy\obj\Debug\Proxy.pdb

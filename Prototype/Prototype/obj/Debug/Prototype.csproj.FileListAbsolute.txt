@@ -1,0 +1,14 @@
+D:\Sharp\Prototype\Prototype\bin\Debug\Prototype.exe.config
+D:\Sharp\Prototype\Prototype\bin\Debug\Prototype.exe
+D:\Sharp\Prototype\Prototype\bin\Debug\Prototype.pdb
+D:\Sharp\Prototype\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+D:\Sharp\Prototype\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+D:\Sharp\Prototype\Prototype\obj\Debug\Prototype.exe
+D:\Sharp\Prototype\Prototype\obj\Debug\Prototype.pdb
+D:\Sharp\Patterns\Prototype\Prototype\bin\Debug\Prototype.exe.config
+D:\Sharp\Patterns\Prototype\Prototype\bin\Debug\Prototype.exe
+D:\Sharp\Patterns\Prototype\Prototype\bin\Debug\Prototype.pdb
+D:\Sharp\Patterns\Prototype\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+D:\Sharp\Patterns\Prototype\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+D:\Sharp\Patterns\Prototype\Prototype\obj\Debug\Prototype.exe
+D:\Sharp\Patterns\Prototype\Prototype\obj\Debug\Prototype.pdb
